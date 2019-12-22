@@ -1,0 +1,3 @@
+./client-side/build/*
+./client-side/dist
+./client-side/node_modules
